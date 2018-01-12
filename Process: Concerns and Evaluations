@@ -1,0 +1,10 @@
+Two general concerns:
+
+1. I have an interest in taking game design seriosuly as a construction of of urgencies, of pace, and rhythms. 
+That is not really what I am doing with this game right now. I think there is no time to make another iteration but for future developments, I think this is something I want to work towards. 
+
+2. The project with touch works not so well with the separation I did recently between the beats and the eggs, which is also a separation of the input from the output. 
+Initially I had the idea of having the rfid chip together with the Vibropixels. To have them in the same object. 
+
+Now that I have separated the two technologies in two different objects it does not require the player to touch the vibrating objects. 
+Even if you *want* to, it still seems awkward to constantly turn to the eggs - and it just kind of is a lot of multitasking. A multitasking that sort of takes the attention away from holding the objects and contempating on them. 
